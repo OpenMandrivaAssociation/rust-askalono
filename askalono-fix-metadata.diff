@@ -1,0 +1,11 @@
+--- askalono-0.4.2/Cargo.toml   2020-01-14T22:13:47+00:00
++++ askalono-0.4.2/Cargo.toml   2020-01-20T16:27:56.036081+00:00
+@@ -37,7 +37,7 @@
+ version = "1.1.7"
+ 
+ [dependencies.rmp-serde]
+-version = "0.13.7"
++version = "0.14.0"
+ 
+ [dependencies.serde]
+ version = "1.0.92"
